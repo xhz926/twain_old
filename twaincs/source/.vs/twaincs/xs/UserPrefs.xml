@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{7D3F078C-BAE8-4975-9EBA-F162ABD64BBD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="twaincsscan/source/FormScan.cs">
+    <Files>
+      <File FileName="twaincsscan/source/FormScan.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="twaincs" expanded="True">
+            <Node name="twaincsscan" expanded="True">
+              <Node name="FormScan.cs" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="twaincstool" expanded="True">
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.twaincstst PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
